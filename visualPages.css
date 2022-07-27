@@ -67,17 +67,17 @@ margin-left:30px;
 }
 
 .content a:hover {
-	color:#ffCC33;
+	color:red;
 }
 
 
 
 .menu a:hover {
-	color:#ffCC33;
+	color:red;
 }
 
 .menu a:visited {
-/*    color:grey; */
+    color:red;
 }
 
 
@@ -85,7 +85,7 @@ margin-left:30px;
 .about a {
   font-weight: bold;
   text-decoration: none;
-    color:#006633;
+    color:red;
 }
 
 .about a:hover {
@@ -118,7 +118,7 @@ margin-left:30px;
 
 
 div.header h1 {
-	margin: 0; 	padding: 10px 0; 
+	margin: 0; 	padding: 10px 0;
 }
 
 
@@ -144,7 +144,7 @@ div.header,div.footer
 
 .footer a
 {
-	color:#ffCC33;
+	color:#b3d7ff;
 }
 
 h1.header
