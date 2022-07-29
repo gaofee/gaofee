@@ -121,7 +121,14 @@ div.header h1 {
 	margin: 0; 	padding: 10px 0;
 }
 
-
+.qr_code_pc_outer {
+    color: #717375;
+    display: block !important;
+    position: fixed;
+    right: 100px;
+    text-align: center;
+    top: 200px;
+}
 div.container
 {
 width:100%;
